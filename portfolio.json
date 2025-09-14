@@ -1,224 +1,172 @@
 {
-  "name": "Your Name",
-  "label": "Optional Label",
-  "image_path": "img/default-image.png",
+  "name": "Jayavardhan Kunadi",
+  "label": "Full-Stack Developer",
+  "image_path": "img/jayavardhan-image.jpg",
   "contact": {
-    "email": "FirstLast@Sample.com",
-    "phone": "123-456-7890",
-    "location": "City, State, Country"
+    "email": "jayavardhankunadi@gmail.com",
+    "phone": "+91 8978641237",
+    "location": "Hyderabad, Telangana, India"
   },
-  "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
+  "summary": "Full-Stack Developer with expertise in building scalable, user-focused applications across frontend (React, Angular, Next.js, TailwindCSS) and backend (Django, PostgreSQL). Experienced with AWS and Docker for cloud deployment and CI/CD workflows. Passionate about system design, AI-powered tools, and delivering maintainable, high-quality solutions that scale.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
-      "label": "Personal Website",
-      "url": "https://sample.com",
-      "svg_path": "img/globe.svg"
-    },
-    {
-      "label": "First Social",
-      "url": "https://sample.com",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jayavardhan-kunadi",
       "svg_path": "img/linkedin.svg"
     },
     {
-      "label": "Second Social",
-      "url": "https://sample.com",
-      "svg_path": "img/github.svg"
+      "label": "Email",
+      "url": "mailto:jayavardhankunadi@gmail.com",
+      "svg_path": "img/email.svg"
     }
   ],
   "work_experience": [
     {
-      "company": "Latest Job",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
+      "company": "Amnet Digital",
+      "position": "Software Engineer",
+      "url": "https://amnetdigital.com",
+      "start_date": "01/01/2023",
       "end_date": "Present",
-      "summary": "Short summary about present job and what the position entails",
+      "summary": "Full-stack development with focus on scalable applications using modern web technologies and cloud deployment",
       "highlights": [
-        "First Duty of Current Job",
-        "Second Duty of Current Job",
-        "Third Duty of Current Job"
-      ]
-    },
-    {
-      "company": "Previous Job",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous job and what that position entailed",
-      "highlights": [
-        "First Duty of Previous Job",
-        "Second Duty of Previous Job",
-        "Third Duty of Previous Job"
+        "Built scalable frontends using React, Next.js, and Angular; implemented modular architecture, responsive UIs, and performance optimizations with Tailwind CSS, Angular Material, and advanced React patterns (custom hooks, React Query).",
+        "Developed and maintained backend services with Django, leveraging PostgreSQL for relational data storage, Redis for caching, and implementing multi-tenancy for scalable SaaS applications.",
+        "Designed and delivered interactive dashboards with Plotly.js and Angular, integrated NgRx for consistent state management, and optimized performance with lazy loading and efficient selectors.",
+        "Implemented authentication and authorization using JWT, sessions, and cookie-based mechanisms to secure multi-tenant applications.",
+        "Containerized applications with Docker and deployed scalable solutions on AWS (EC2, ECS, S3, Secrets Manager), ensuring reliable performance across environments.",
+        "Collaborated on AI-driven applications, including document processing and summarization systems, applying Redux Toolkit and clean architectural patterns for maintainability."
       ]
     }
   ],
   "projects": [
     {
-      "title": "My First Project",
-      "summary": "Short summary about my first project",
-      "url": "https://sample.com",
+      "title": "Swift Insights",
+      "summary": "Advanced React application with custom hook generators and multi-tenancy support built with Next.js and Django backend",
+      "url": "https://github.com/jayavardhan/swift-insights",
       "highlights": [
-        "First Highlight of Project One",
-        "Second Highlight of Project One",
-        "Third Highlight of Project One"
+        "Developed frontend in React using advanced patterns including custom hook generators, React Query for efficient server state management, and component-level optimizations for scalability.",
+        "Implemented backend in Django with multi-tenancy support, Redis caching, and PostgreSQL for relational data storage.",
+        "Designed modular architecture ensuring scalability, faster data access, and clean separation of concerns across tenants."
       ],
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=1",
-          "caption": "Image Caption 1"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=2",
-          "caption": "Image Caption 2"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=3",
-          "caption": "Image Caption 3"
-        }
-      ]
+      "images": []
     },
     {
-      "title": "My Second Project",
-      "summary": "Short summary about my second project",
-      "url": "https://sample.com",
+      "title": "Cogniview",
+      "summary": "Interactive dashboard application built with Angular and Plotly.js for dynamic data analysis",
+      "url": "https://github.com/jayavardhan/cogniview",
       "highlights": [
-        "First Highlight of Project Two",
-        "Second Highlight of Project Two",
-        "Third Highlight of Project Two"
+        "Built interactive dashboards with Plotly.js for dynamic data analysis.",
+        "Integrated NgRx for consistent global state across multiple components.",
+        "Boosted performance with lazy loading and optimized selectors."
       ],
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=4",
-          "caption": "Image Caption 4"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=5",
-          "caption": "Image Caption 5"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=6",
-          "caption": "Image Caption 6"
-        }
-      ]
-    }
-  ],
-  "volunteer_experience": [
-    {
-      "organization": "Latest Organization",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
-      "end_date": "Present",
-      "summary": "Short summary about present volunteer work",
-      "highlights": [
-        "First Duty of Current Organization",
-        "Second Duty of Current Organization",
-        "Third Duty of Current Organization"
-      ]
+      "images": []
     },
     {
-      "organization": "Previous Organization",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous volunteer work",
+      "title": "Agent Workspace",
+      "summary": "React-based document processing application with AI-powered features for file summarization and story generation",
+      "url": "https://github.com/jayavardhan/agent-workspace",
       "highlights": [
-        "First Duty of Previous Organization",
-        "Second Duty of Previous Organization",
-        "Third Duty of Previous Organization"
-      ]
+        "Built a React-based document processing app with file upload, summarization, and story generation features.",
+        "Integrated Redux Toolkit to manage asynchronous API interactions and global state.",
+        "Applied advanced React patterns including custom hooks and component-level state isolation for cleaner, scalable code."
+      ],
+      "images": []
     }
   ],
+  "volunteer_experience": [],
   "education": [
     {
-      "institution": "Institution One",
-      "location": "Institution One Location",
-      "url": "https://sample.com",
-      "degrees": [
-        "Master of Science in Computer Science",
-        "Minor in Mathematics"
-      ],
-      "honors": ["Outstanding Student Award", "Dean's List"],
-      "gpa_cumulative": "3.5",
-      "gpa_major": "4.0",
-      "graduation_date": "01/01/2005"
+      "institution": "Balaji Institute of Technology and Science",
+      "location": "Warangal, Telangana",
+      "url": "",
+      "degrees": ["B.Tech in Electrical and Electronics Engineering"],
+      "honors": [],
+      "gpa_cumulative": "",
+      "gpa_major": "",
+      "graduation_date": ""
     },
     {
-      "institution": "Institution Two",
-      "location": "Institution Two Location",
-      "url": "https://sample.com",
-      "degrees": ["Bachelor of Science in Physics"],
-      "honors": ["Scholarship Recipient"],
-      "gpa_cumulative": "3.2",
-      "gpa_major": "3.9",
-      "graduation_date": "01/01/2000"
+      "institution": "VMR Polytechnic",
+      "location": "Warangal, Telangana",
+      "url": "",
+      "degrees": ["Diploma in Electrical and Electronics Engineering"],
+      "honors": [],
+      "gpa_cumulative": "",
+      "gpa_major": "",
+      "graduation_date": ""
     }
   ],
   "skills": [
     {
-      "name": "My First Skill",
-      "proficiency": 100,
-      "proficiency_label": "Proficiency Level"
+      "name": "NextJS",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
     },
     {
-      "name": "My Second Skill",
+      "name": "React",
+      "proficiency": 95,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "Angular",
+      "proficiency": 85,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Django",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "PostgreSQL",
       "proficiency": 80,
-      "proficiency_label": "Proficiency Level"
-    }
-  ],
-  "interests": [
-    {
-      "name": "My First Hobby",
-      "summary": "Short summary about my first Hobby",
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=7",
-          "caption": "Image Caption 7"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=8",
-          "caption": "Image Caption 8"
-        }
-      ]
+      "proficiency_label": "Proficient"
     },
     {
-      "name": "My Second Hobby",
-      "summary": "Short summary about my second hobby",
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=9",
-          "caption": "Image Caption 9"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=10",
-          "caption": "Image Caption 10"
-        }
-      ]
+      "name": "AWS",
+      "proficiency": 75,
+      "proficiency_label": "Proficient"
+    },
+    {
+      "name": "Docker",
+      "proficiency": 85,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": 85,
+      "proficiency_label": "Advanced"
     }
   ],
+  "interests": [],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Professional Working Proficiency"
     },
     {
-      "language": "American Sign Language",
-      "fluency": "Professional Working Proficiency"
+      "language": "Hindi",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Telugu",
+      "fluency": "Native Speaker"
     }
   ],
-  "references": [
+  "references": [],
+  "certifications": [
     {
-      "name": "Person One",
-      "relation": "Previous Boss",
-      "reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
-    },
-    {
-      "name": "Person Two",
-      "relation": "Previous Coworker",
-      "reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services (AWS)",
+      "date": "2023",
+      "url": ""
     }
+  ],
+  "strengths": [
+    "Flexibility and adaptability",
+    "Excellent communication, analytical, interpersonal, and presentation skills",
+    "Good team player and self-motivated",
+    "Strong debugging and problem-solving skills"
   ]
 }
